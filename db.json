@@ -1,0 +1,240 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "image": "images/menimage1.jpg",
+      "productName": "RELAXED FIT SHIRT",
+      "price": "49.95",
+      "category": "men",
+      "reviews": "100"
+    },
+    {
+      "id": "2",
+      "image": "images/menimage2.jpg",
+      "productName": "100% LINEN CREW NECK SWEATER",
+      "price": "49.85",
+      "category": "men",
+      "reviews": "65"
+    },
+    {
+      "id": "3",
+      "image": "images/menimage3.jpg",
+      "productName": "SUEDE LEATHER JACKET WITH POCKETS",
+      "price": "249.00",
+      "category": "men",
+      "reviews": "15"
+    },
+    {
+      "id": "4",
+      "image": "images/menimage4.jpg",
+      "productName": "REGULAR FIT COTTON SHIRT",
+      "price": "39.95",
+      "category": "men",
+      "reviews": "5"
+    },
+    {
+      "id": "5",
+      "image": "images/menimage5.jpg",
+      "productName": "SHORT SLEEVE CREW NECK T-SHIRT",
+      "price": "25.95",
+      "category": "men",
+      "reviews": "25"
+    },
+    {
+      "id": "6",
+      "image": "images/menimage6.jpg",
+      "productName": "SHORT SLEEVE KNIT CARDIGAN WITH POCKET",
+      "price": "29.95",
+      "category": "men",
+      "reviews": "35"
+    },
+    {
+      "id": "7",
+      "image": "images/womenimage1.jpg",
+      "productName": "WHITE LINEN DRESS WITH BROWN STRIPES",
+      "price": "99.95",
+      "category": "women",
+      "reviews": "45"
+    },
+    {
+      "id": "8",
+      "image": "images/womenimage2.jpg",
+      "productName": "FLOWING SATIN BOMBER JACKET CO-ORD",
+      "price": "89.95",
+      "category": "women",
+      "reviews": "5"
+    },
+    {
+      "id": "9",
+      "image": "images/womenimage3.jpg",
+      "productName": "STRAPPY MIDI SLIP DRESS",
+      "price": "75.95",
+      "category": "women",
+      "reviews": "40"
+    },
+    {
+      "id": "10",
+      "image": "images/womenimage4.jpg",
+      "productName": "WPOPLIN SHIRT WITH STAND-UP COLLAR",
+      "price": "59.95",
+      "category": "women",
+      "reviews": "10"
+    },
+    {
+      "id": "11",
+      "image": "images/womenimage5.jpg",
+      "productName": "KNIT COTTON BLEND TOP",
+      "price": "79.95",
+      "category": "women",
+      "reviews": "9"
+    },
+    {
+      "id": "12",
+      "image": "images/womenimage6.jpg",
+      "productName": "KNIT COTTON BLEND TOP",
+      "price": "19.95",
+      "category": "women",
+      "reviews": "12"
+    },
+    {
+      "id": "13",
+      "image": "images/womenimage7.jpg",
+      "productName": "CROCHET KNIT COTTON BLEND VEST",
+      "price": "59.95",
+      "category": "women",
+      "reviews": "12"
+    },
+    {
+      "id": "14",
+      "image": "images/womenimage8.jpg",
+      "productName": "SUEDE LEATHER STRAIGHT TROUSERS",
+      "price": "249.95",
+      "category": "women",
+      "reviews": "12"
+    },
+    {
+      "id": "15",
+      "image": "images/womenimage9.jpg",
+      "productName": "NAPPA LEATHER JACKET WITH POCKETS",
+      "price": "299.95",
+      "category": "women",
+      "reviews": "12"
+    },
+    {
+      "id": "16",
+      "image": "images/womenimage10.jpg",
+      "productName": "STRAPPY COTTON TOP WITH CONTRAST TRIM",
+      "price": "22.95",
+      "category": "women",
+      "reviews": "14"
+    },
+    {
+      "id": "17",
+      "image": "images/womenimage11.jpg",
+      "productName": "NAPPA LEATHER MIDI SKIRT",
+      "price": "249.00",
+      "category": "women",
+      "reviews": "15"
+    },
+    {
+      "id": "18",
+      "image": "images/womenimage12.jpg",
+      "productName": "WATERCOLOUR PRINT MIDI DRESS",
+      "price": "99.95",
+      "category": "women",
+      "reviews": "22"
+    },
+    {
+      "id": "19",
+      "image": "images/menimage7.jpg",
+      "productName": "KNIT COTTON SWEATER WITH MOCK NECK",
+      "price": "49.00",
+      "category": "men",
+      "reviews": "32"
+    },
+    {
+      "id": "20",
+      "image": "images/menimage8.jpg",
+      "productName": "100% COTTON TWILL JACKET",
+      "price": "159.00",
+      "category": "men",
+      "reviews": "29"
+    },
+    {
+      "id": "21",
+      "image": "images/menimage9.jpg",
+      "productName": "CREW NECK KNIT SWEATER",
+      "price": "59",
+      "category": "men",
+      "reviews": "25"
+    },
+    {
+      "id": "22",
+      "image": "images/menimage10.jpg",
+      "productName": "COTTON TWILL OVERSHIRT WITH BUTTONS",
+      "price": "89.00",
+      "category": "men",
+      "reviews": "19"
+    },
+    {
+      "id": "23",
+      "image": "images/menimage11.jpg",
+      "productName": "100% COTTON RIBBED KNIT CARDIGAN",
+      "price": "69.00",
+      "category": "men",
+      "reviews": "15"
+    },
+    {
+      "id": "24",
+      "image": "images/menimage12.jpg",
+      "productName": "LONG LINEN REGULAR FIT SHIRT",
+      "price": "49.00",
+      "category": "men",
+      "reviews": "35"
+    }
+  ],
+  "users": [
+    {
+      "id": "bfd8",
+      "firstName": "natyra",
+      "lastName": "arifi",
+      "email": "natyraa1998@gmail.com",
+      "password": "Natyra123",
+      "confirmPassowrd": "Natyra123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "e457ebb8-3a9b-4ce8-a238-86edcaf323cc",
+      "image": "images/menimage1.jpg",
+      "productName": "RELAXED FIT SHIRT",
+      "price": "49.95",
+      "category": "men",
+      "reviews": "100"
+    },
+    {
+      "id": "38579fe0-09d6-4a20-ba8c-2c6b3aac9492",
+      "image": "images/menimage1.jpg",
+      "productName": "RELAXED FIT SHIRT",
+      "price": "49.95",
+      "category": "men",
+      "reviews": "100"
+    },
+    {
+      "id": "423ca697-58ba-4cf4-b144-645eefb620e4",
+      "image": "images/menimage1.jpg",
+      "productName": "RELAXED FIT SHIRT",
+      "price": "49.95",
+      "category": "men",
+      "reviews": "100"
+    },
+    {
+      "id": "9904137c-13f0-4c7b-ae9a-1ee7b3d8629e",
+      "image": "images/menimage1.jpg",
+      "productName": "RELAXED FIT SHIRT",
+      "price": "49.95",
+      "category": "men",
+      "reviews": "100"
+    }
+  ]
+}
