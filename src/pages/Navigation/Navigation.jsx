@@ -11,7 +11,7 @@ const Navigation = ({isLoggedIn , handleLogout , cartItems , incrementCartItems}
        <StyledLeftSection>
        <li>
           <Link to="/">
-          <img style={{width: "60px" , marginTop: "-2px"}} src={Logo}></img>
+          <img style={{width: "60px" , marginTop: "-2px"}} src={Logo} alt={`${Logo} image`}></img>
           </Link>
         </li>
         <li>
