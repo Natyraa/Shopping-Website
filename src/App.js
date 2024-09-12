@@ -10,9 +10,9 @@ function App() {
   
   const handleLogout = () => setIsLoggedIn(false)
   console.log(isLoggedIn);
-  const incrementCartItems = () => setCartItems(cartItems + 1)
+  const incrementCartItems = () => setCartItems(prevCartItems => prevCartItems + 1)
   console.log(cartItems);
-  const decrementCartItems = () => setCartItems(cartItems -1)
+  const decrementCartItems = () => setCartItems(prevCartItems => prevCartItems - 1)
   return (
    <BrowserRouter>
    <Routes>

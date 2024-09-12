@@ -203,38 +203,5 @@
       "confirmPassowrd": "Natyra123"
     }
   ],
-  "cart": [
-    {
-      "id": "e457ebb8-3a9b-4ce8-a238-86edcaf323cc",
-      "image": "images/menimage1.jpg",
-      "productName": "RELAXED FIT SHIRT",
-      "price": "49.95",
-      "category": "men",
-      "reviews": "100"
-    },
-    {
-      "id": "38579fe0-09d6-4a20-ba8c-2c6b3aac9492",
-      "image": "images/menimage1.jpg",
-      "productName": "RELAXED FIT SHIRT",
-      "price": "49.95",
-      "category": "men",
-      "reviews": "100"
-    },
-    {
-      "id": "423ca697-58ba-4cf4-b144-645eefb620e4",
-      "image": "images/menimage1.jpg",
-      "productName": "RELAXED FIT SHIRT",
-      "price": "49.95",
-      "category": "men",
-      "reviews": "100"
-    },
-    {
-      "id": "9904137c-13f0-4c7b-ae9a-1ee7b3d8629e",
-      "image": "images/menimage1.jpg",
-      "productName": "RELAXED FIT SHIRT",
-      "price": "49.95",
-      "category": "men",
-      "reviews": "100"
-    }
-  ]
+  "cart": []
 }
